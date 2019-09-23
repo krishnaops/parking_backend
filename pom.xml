@@ -79,7 +79,7 @@
 	<distributionManagement>
           <snapshotRepository>
           <id>nexus</id>
-          <url>http://204.236.245.98:8081/nexus/content/repositories/nexus/</url>
+          <url>http://3.95.184.51:8081/nexus/content/repositories/murali/</url>
           </snapshotRepository>
        </distributionManagement>
 
